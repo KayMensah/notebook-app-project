@@ -1,0 +1,44 @@
+.form-lists {
+    width: 40%;
+    margin: 3rem auto;
+    font-size: 1.2rem;
+}
+.form-lists h1 {
+    text-align: center;
+}
+.form-lists p {
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,
+td {
+    text-transform: capitalize;
+}
+table,
+th,
+td {
+    text-align: left;
+    padding: 15px 5px !important;
+
+    border-radius: 5px;
+
+    border-bottom: 1px solid lightgray !important;
+}
+label {
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+/* .modal {
+    padding: 20px;
+    background-color: rgb(119, 117, 117);
+    position: absolute;
+    top: 33%;
+    left: 40%;
+} */
